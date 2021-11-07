@@ -13,10 +13,10 @@
   integrity sha512-K1kQv1BZVtMXQqdpNZt9Pgh85KwamsWX9gYyq1xG4cpyb+EacfMiNfumrju16piFXanCUrCR0P1DowPjV2qV/A==
 
 "@auto-it/bot-list@link:packages/bot-list":
-  version "10.30.0"
+  version "10.31.0"
 
 "@auto-it/core@link:packages/core":
-  version "10.30.0"
+  version "10.31.0"
   dependencies:
     "@auto-it/bot-list" "link:packages/bot-list"
     "@endemolshinegroup/cosmiconfig-typescript-loader" "^3.0.2"
@@ -59,7 +59,7 @@
     url-join "^4.0.0"
 
 "@auto-it/npm@link:plugins/npm":
-  version "10.30.0"
+  version "10.31.0"
   dependencies:
     "@auto-it/core" "link:packages/core"
     "@auto-it/package-json-utils" "link:packages/package-json-utils"
@@ -77,13 +77,13 @@
     user-home "^2.0.0"
 
 "@auto-it/package-json-utils@link:packages/package-json-utils":
-  version "10.30.0"
+  version "10.31.0"
   dependencies:
     parse-author "^2.0.0"
     parse-github-url "1.0.2"
 
 "@auto-it/released@link:plugins/released":
-  version "10.30.0"
+  version "10.31.0"
   dependencies:
     "@auto-it/bot-list" "link:packages/bot-list"
     "@auto-it/core" "link:packages/core"
@@ -2694,9 +2694,9 @@
   integrity sha512-/xUgezxxYePeXhg5S04hUjxG9JZi+rJTs1+4NwpYPfSaS7BeDa6tVJkH6lN9Cb6rl8d24Fi2uX0s0Ngg2JT6gg==
 
 "@types/conventional-changelog-core@*", "@types/conventional-changelog-core@^4.1.1":
-  version "4.1.1"
-  resolved "https://registry.yarnpkg.com/@types/conventional-changelog-core/-/conventional-changelog-core-4.1.1.tgz#30f3258881075e5ec4b4ac8e3e30d006f0693168"
-  integrity sha512-eIUsocsEtwiQB1vau0UPzuqzWERyrHzaSkUsK+kbnUkYtOM8hlFrJI+UZFxXTKU6CLR/FGsSeGPww8zgAO9WvA==
+  version "4.2.0"
+  resolved "https://registry.yarnpkg.com/@types/conventional-changelog-core/-/conventional-changelog-core-4.2.0.tgz#e8dcc5365ccb6a3ec2ee9f1c7e3493394b88596a"
+  integrity sha512-+zsPiroIGMRxhFc2o7jvvkYrKKvpBLTkWkUb2tr//qjRSW8FBPK65dI0TAtpQ5dyOQI99GqVeoSMs0jeprgExA==
   dependencies:
     "@types/conventional-changelog-writer" "*"
     "@types/conventional-commits-parser" "*"
