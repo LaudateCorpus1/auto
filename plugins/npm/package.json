@@ -42,7 +42,7 @@
     "@auto-it/package-json-utils": "link:../../packages/package-json-utils",
     "await-to-js": "^3.0.0",
     "endent": "^2.0.1",
-    "env-ci": "^5.0.1",
+    "env-ci": "^6.0.0",
     "fp-ts": "^2.5.3",
     "get-monorepo-packages": "^1.1.0",
     "io-ts": "^2.1.2",
