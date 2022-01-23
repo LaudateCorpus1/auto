@@ -42,7 +42,7 @@
     "https-proxy-agent": "^5.0.0",
     "io-ts": "^2.1.2",
     "jsesc": "^3.0.2",
-    "node-fetch": "2.6.1",
+    "node-fetch": "2.6.7",
     "tslib": "2.1.0"
   },
   "devDependencies": {
