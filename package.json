@@ -67,7 +67,7 @@
     "jest-circus": "^26.0.1",
     "jest-serializer-path": "^0.1.15",
     "jest-snapshot-serializer-ansi": "^1.0.0",
-    "lerna": "^3.22.1",
+    "lerna": "^5.4.3",
     "lint-staged": "^10.0.7",
     "mock-fs": "^4.13.0",
     "next-ignite": "^0.10.11",
